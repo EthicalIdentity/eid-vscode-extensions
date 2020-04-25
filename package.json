@@ -1,0 +1,29 @@
+{
+    "name": "ti-vscode-extensions",    
+    "displayName": "Tailored Industry VSCode Extension Pack",
+    "description": "Tailored Industry VSCode Extension Pack",
+    "version": "0.0.1",
+    "publisher": "TailoredIndustry",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "bung87.rails", 
+        "bung87.vscode-gemfile", 
+        "castwide.solargraph", 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens", 
+        "EditorConfig.EditorConfig", 
+        "kaiwood.endwise", 
+        "msjsdiag.debugger-for-chrome", 
+        "noku.rails-run-spec-vscode", 
+        "PeterJausovec.vscode-docker", 
+        "rebornix.ruby", 
+        "sianglim.slim", 
+        "streetsidesoftware.code-spell-checker", 
+        "Swellaby.common-pack"
+    ]
+}
