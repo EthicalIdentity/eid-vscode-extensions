@@ -1,27 +1,32 @@
 {
-    "name": "ti-vscode-extensions",    
-    "displayName": "Tailored Industry VSCode Extension Pack",
-    "description": "Tailored Industry VSCode Extension Pack",
-    "version": "0.0.1",
-    "publisher": "TailoredIndustry",
+    "name": "eid-vscode-extensions",    
+    "displayName": "Ethical Identity VSCode Extension Pack",
+    "description": "Ethical Identity VSCode Extension Pack",
+    "version": "1.0.1",
+    "publisher": "ethicalidentity",
     "engines": {
-        "vscode": "^1.35.0"
+        "vscode": "^1.44.0"
     },
     "categories": [
         "Extension Packs"
     ],
     "extensionPack": [ 
+        "aki77.rails-partial", 
+        "aki77.rails-routes", 
+        "aliariff.vscode-erb-beautify", 
         "bung87.rails", 
         "bung87.vscode-gemfile", 
         "castwide.solargraph", 
         "dbaeumer.vscode-eslint", 
         "eamodio.gitlens", 
         "EditorConfig.EditorConfig", 
+        "gurgeous.bust-a-gem", 
         "kaiwood.endwise", 
+        "ms-azuretools.vscode-docker",
         "msjsdiag.debugger-for-chrome", 
         "noku.rails-run-spec-vscode", 
-        "PeterJausovec.vscode-docker", 
         "rebornix.ruby", 
+        "Shan.code-settings-sync", 
         "sianglim.slim", 
         "streetsidesoftware.code-spell-checker", 
         "Swellaby.common-pack"
