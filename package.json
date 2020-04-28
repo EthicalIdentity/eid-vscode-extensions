@@ -22,13 +22,13 @@
         "EditorConfig.EditorConfig", 
         "gurgeous.bust-a-gem", 
         "kaiwood.endwise", 
+        "ms-azuretools.vscode-docker",
         "msjsdiag.debugger-for-chrome", 
         "noku.rails-run-spec-vscode", 
         "rebornix.ruby", 
         "Shan.code-settings-sync", 
         "sianglim.slim", 
         "streetsidesoftware.code-spell-checker", 
-        "Swellaby.common-pack", 
-        "PeterJausovec.vscode-docker"
+        "Swellaby.common-pack"
     ]
 }
