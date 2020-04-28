@@ -2,7 +2,7 @@
     "name": "eid-vscode-extensions",    
     "displayName": "Ethical Identity VSCode Extension Pack",
     "description": "Ethical Identity VSCode Extension Pack",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "ethicalidentity",
     "engines": {
         "vscode": "^1.44.0"
